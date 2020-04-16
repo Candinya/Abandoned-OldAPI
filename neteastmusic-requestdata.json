@@ -1,0 +1,22 @@
+{
+    "data": [{
+        "id": 468490592,
+        "url": "http://m7.music.126.net/20200416134836/63478e50dffa31d3336d26a63784e452/ymusic/c318/83f5/0cf6/14c332726ea2f24996c8261ef9e98068.mp3",
+        "br": 128000,
+        "size": 5507492,
+        "md5": "14c332726ea2f24996c8261ef9e98068",
+        "code": 200,
+        "expi": 1200,
+        "type": "mp3",
+        "gain": 0.0,
+        "fee": 0,
+        "uf": null,
+        "payed": 0,
+        "flag": 0,
+        "canExtend": false,
+        "freeTrialInfo": null,
+        "level": "standard",
+        "encodeType": "mp3"
+    }],
+    "code": 200
+}
